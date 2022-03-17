@@ -1,2 +1,2 @@
-# Wiki-Vtubers
-Wiki de las mejores anime hololive
+# Wiki Proyecto Semestral
+Wiki Proyecto Semestral
